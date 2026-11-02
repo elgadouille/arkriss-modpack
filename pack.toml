@@ -1,0 +1,13 @@
+name = "Arkriss"
+author = "Elgada"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1112275067c9807f80d93347e9a7401e6226974dfb5e715fc589c564c886e304"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.1"
