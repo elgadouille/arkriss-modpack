@@ -1,0 +1,14 @@
+{
+  "hudEnabled": true,
+  "showArrows": true,
+  "showHpBar": true,
+  "showHungerBar": false,
+  "showStaminaBar": false,
+  "showManaBar": false,
+  "showRpgManaBar": false,
+  "partyHudX": 0,
+  "partyHudY": 120,
+  "hudScale": 1.0,
+  "maxVisiblePartyHuds": -1,
+  "hudStyle": "SIMPLE"
+}

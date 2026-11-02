@@ -1,6 +1,50 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/doggytalents-client.toml"
+hash = "3fb4f6777e94910e674782db7c10d4c0622f9723a6c38ad69905740e5cb61719"
+
+[[files]]
+file = "config/healthbars-client.toml"
+hash = "51e58a78c9f9397ed2712a270db80029c7d0f51aa36c9b2ed98656d73180813c"
+
+[[files]]
+file = "config/rpgsystems/damage_numbers_client.json"
+hash = "d5006e29b51f459c02c3c4139da7abd2a0ec6bcc82a81136ade4c0b684811986"
+
+[[files]]
+file = "config/rpgsystems/damage_types_client.json"
+hash = "ca0f50075b2c77b151e7734d7e5b42d4ccf6ff1d78ea6b83171d51b88902f16b"
+
+[[files]]
+file = "config/rpgsystems/enemy_hud_client.json"
+hash = "053d2a07bdae90b447f5f80fed90608842a7eb22e33e14a109f3be29f952cc8e"
+
+[[files]]
+file = "config/rpgsystems/healing_numbers_client.json"
+hash = "4ca9e72a946d083e457fecb86aaeacc8c70916f7d0a9dd5363d3f167c51e11ce"
+
+[[files]]
+file = "config/rpgsystems/rpgsystems.json"
+hash = "bb0c957136b77c79d546e2260b86910dd61a635e81fb4ce45a4bd3270c04f609"
+
+[[files]]
+file = "config/rpgsystems/rpgsystems_memberinfo_client.json"
+hash = "c98f78b6cc8ebba7597e1107227a134af6a82747a8753af64ac615641c7529b9"
+
+[[files]]
+file = "config/rpgsystems/rpgsystems_misc_client.json"
+hash = "800e0d0e5120aab76809b7fef57807a885b9eec4e951aae69b1c5d3467351317"
+
+[[files]]
+file = "config/rpgsystems/rpgsystems_partyhud_client.json"
+hash = "68c7c526ee8c676cbc019f94d05533547b29d241244aed4705a941af73d72f77"
+
+[[files]]
+file = "config/rpgsystems/titles_client.json"
+hash = "2d919896abb2cc286bad3b575a2d1a936b2fb67f74b11e33225b18a6721bb400"
+
+[[files]]
 file = "mods/BOMD-1.10.2-1.21.1.jar"
 hash = "39e9750fcddcd3a4d7abb357ff52d39b922ffcccbe5dc7ba8c507249e47a30f9"
 

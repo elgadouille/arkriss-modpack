@@ -1,0 +1,12 @@
+{
+  "inviteHudX": 0,
+  "inviteHudY": 10,
+  "joinRequestHudX": 0,
+  "joinRequestHudY": 10,
+  "inviteInventoryX": 8,
+  "inviteInventoryY": 8,
+  "handledTitlesBtnOffsetX": 64,
+  "handledTitlesBtnOffsetY": 67,
+  "handledPartyBtnOffsetX": 28,
+  "handledPartyBtnOffsetY": 67
+}

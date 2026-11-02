@@ -1,0 +1,7 @@
+{
+  "enabled": false,
+  "showMode": "ALL",
+  "showPetDamage": true,
+  "onlyShowPartyDamage": false,
+  "viewDistance": 32.0
+}

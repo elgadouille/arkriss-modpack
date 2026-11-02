@@ -1,0 +1,13 @@
+{
+  "systems": {
+    "party": true,
+    "pet": false,
+    "title": true
+  },
+  "party": {
+    "logChatToConsole": true,
+    "useFTBTeams": true,
+    "usePartyAddon": false,
+    "useVanillaTeams": false
+  }
+}
