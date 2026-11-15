@@ -177,12 +177,8 @@ file = "mods/armory-fabric-1.2.9+1.21.1.jar"
 hash = "d3265c6b838445289b9e41c040208ee261a9d2f49ac8cc3a60fda8fa26827839"
 
 [[files]]
-file = "mods/arsenal-fabric-1.3.3+1.21.1.jar"
-hash = "544b6c17dc7e22484048222697c08a10763d353122962d6624787c8a7f5c8a0b"
-
-[[files]]
-file = "mods/arsenal-fabric-1_3_3_1_21_1_1_patched.jar"
-hash = "724ce1cca2edc08781dbe79e28df1f9178eb6dc42e134e8815d61ffcf6fc2797"
+file = "mods/arsenal-fabric-1.3.3+1.21.1.1.jar"
+hash = "a1b346dd85330779771b4f81ce404f22868ada08fe9ee3dc2cc550fe61e2eecd"
 
 [[files]]
 file = "mods/attributefix-fabric-1.21.1-21.1.3.jar"
