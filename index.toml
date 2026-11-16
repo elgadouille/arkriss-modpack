@@ -406,6 +406,10 @@ file = "mods/puffish_skills-0.17.0-1.21-fabric.jar"
 hash = "998c1dd0ba146cfec648e295bee0abc7d3c6573312667439150a49e6f1a9f179"
 
 [[files]]
+file = "mods/pvpve-1.0.0.jar"
+hash = "6976d8a980761082712620119ee4600a0b04280fd8db3cf4e89f23523ec7d83c"
+
+[[files]]
 file = "mods/quicksort-0.11.1+1.21.1.jar"
 hash = "1da87bc22aabd6d4e6558d819bd664bed644975a87dea4de2f9a434ab026ae5d"
 
