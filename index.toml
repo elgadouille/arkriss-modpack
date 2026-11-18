@@ -495,8 +495,8 @@ file = "mods/tmb_spellengine_compat-1.4.0.jar"
 hash = "320e7c187268adc8a5e603afff3e7b3be4927102b20c3797ed5dd701eae2203d"
 
 [[files]]
-file = "mods/too_many_bows-fabric-1.21.1-3.3.0.jar"
-hash = "c67c65300d4153ea08e95b05bd1e413f087999ba7e80c1c8f3090fd3eb596e8e"
+file = "mods/too_many_bows-fabric-1.21.1-4.1.1.jar"
+hash = "7effb44a50d1d90d247f97edba0a6b4d385d5411d2856a5d1503553e4586aa6b"
 
 [[files]]
 file = "mods/tooltip-scroll-1.5.1+1.21.1.jar"
