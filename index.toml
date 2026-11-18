@@ -189,10 +189,6 @@ file = "mods/azurelib-fabric-1.21.1-3.0.39.jar"
 hash = "368737dbc7eade38ac9c05f5def557965a679ab6909449dc136bf0060420ce97"
 
 [[files]]
-file = "mods/azurelibarmor-fabric-1.21.1-3.1.1.jar"
-hash = "abbc4bb7b03276e012b5a2e0832a482326363b967978339fe6cd437a1a6b5e81"
-
-[[files]]
 file = "mods/azurelibarmor-fabric-1.21.1-3.1.2.jar"
 hash = "5451124201b0bb9ac1f642ae4e2634cfa39b4ce6ff477229adf1fddccb247977"
 
