@@ -537,3 +537,11 @@ hash = "3008af97f943e71cfe955f18f2aa0e699c70454bd76196931c0451b9dd53ad4b"
 [[files]]
 file = "mods/yet_another_config_lib_v3-3.8.1+1.21.1-fabric.jar"
 hash = "413d7710f4f2b08fc188e205c3dfe542785da577d949cae28b5c0fc37ae75336"
+
+[[files]]
+file = "resourcepacks/NoDamageHearts.zip"
+hash = "2d9a6541f99610af146f96bc6308a3d2f03630271ecb2dfa880b8774144cf965"
+
+[[files]]
+file = "resourcepacks/fusion_sets_resourcepack.zip"
+hash = "b6c2471ed44129d45d1fff9174ac4e271dd246c3b94772042993165510df9d82"
