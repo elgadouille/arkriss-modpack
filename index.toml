@@ -523,6 +523,10 @@ file = "mods/waystones-fabric-1.21.1-21.1.23.jar"
 hash = "9177ee013ceefdbf61f0c34c90bc3f635e706ce39e1357af9315bd581837882f"
 
 [[files]]
+file = "mods/weaponcast-1.0.0.jar"
+hash = "2aaa5d14020e6f39759d371af56611f6b1e0ed5ce8fbd8e6bd228d8f29ed0c1e"
+
+[[files]]
 file = "mods/wizards-fabric-2.6.5+1.21.1.jar"
 hash = "9d75a5a65558d578aa26c2e2dd7573ceae606b812bc3f83f1981ca12774fbf21"
 
